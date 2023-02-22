@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+html{
+    background-color: rgb(38, 40, 41);
+}
+.wrapper{
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 20px;
+}
